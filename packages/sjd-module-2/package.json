@@ -1,16 +1,16 @@
 {
   "name": "sjd-module-2",
-  "version": "0.1.4-0",
-  "description": "",
+  "version": "0.1.4",
+  "description": "sjd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "sjd",
   "license": "ISC",
   "dependencies": {
     "react": "^16.4.2"
   },
-  "gitHead": "fdbb7a004f69afc5e61cfca9ff1db75a6a51fa0f"
+  "gitHead": "d1406628d8d751b55c3fc41e03a75cb1187dbe45"
 }
