@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "sjd-module-1",
   "version": "0.1.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "react": "^16.4.2"
   },
-  "gitHead": "f854b35a9b88fa93fc75e68273a412fda127e8a3"
+  "gitHead": "5f5e44a0c6af25d1bde083ce49faf600e6577017"
 }
