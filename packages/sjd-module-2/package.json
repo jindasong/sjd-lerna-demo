@@ -1,6 +1,6 @@
 {
   "name": "sjd-module-2",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "sjd",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "dependencies": {
     "react": "^16.4.2"
   },
-  "gitHead": "2c2b88924438e7f90a38d7acdc7caa7390f82a10"
+  "gitHead": "3697b5faaca9848e4224ce89687a2659dbc17c09"
 }
