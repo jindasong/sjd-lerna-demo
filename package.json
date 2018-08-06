@@ -1,0 +1,8 @@
+{
+  "name": "sjd-lerna-demo",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.0.0-rc.0"
+  }
+}
